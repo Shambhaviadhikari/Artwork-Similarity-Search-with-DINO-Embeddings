@@ -1,6 +1,6 @@
-Artwork Similarity Search with DINOv2
+#Artwork Similarity Search with DINOv2
 
-Yeji Kim · Shambhavi Adhikari
+>Shambhavi Adhikari,Yeji Kim 
 
 **Overview**
 
